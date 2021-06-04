@@ -59,7 +59,7 @@ init();
 </head>
 
 <body>
-    <h1>Canvas 01 地球，月亮，太阳的动画</h1>
+    <h1>Canvas 01 地球，月亮，太阳的动</h1>
     <canvas id="canvas"width="380" height="380"></canvas>
 </body>
 
